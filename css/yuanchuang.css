@@ -90,12 +90,17 @@ a{
     top: 0;
     left: 0;
 }
+.banner img:first-child{
+    z-index: 1;
+}
 .banner .ban_circular{
     width: 100%;
     height: 10px;
     position: absolute;
     bottom: 10px;
     left: 0;
+    z-index: 1;
+    cursor: pointer;
 }
 .banner .ban_circular .banc_son{
     width: 10px;
