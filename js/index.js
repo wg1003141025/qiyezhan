@@ -20,7 +20,7 @@ window.onload = function () {
         clearInterval(time);
     }
     bei.onmouseout = function () {
-        time = setInterval(t,1000);
+        time = setInterval(t,3000);
     }
     dian.forEach(function (ele,index) {
         ele.addEventListener('click', function () {
