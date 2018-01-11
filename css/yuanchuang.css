@@ -83,6 +83,9 @@ a{
     top: 0;
     left: 0;
 }
+.banner .tu{
+    transition: all 1s;
+}
 .banner img{
     width: 100%;
     height: 422px;
@@ -90,7 +93,7 @@ a{
     top: 0;
     left: 0;
 }
-.banner img:first-child{
+.banner .tu:first-child img{
     z-index: 1;
 }
 .banner .ban_circular{
@@ -112,7 +115,7 @@ a{
     margin: 0 5px;
 }
 .banner .ban_circular .banc_son:first-child{
-    margin-left: 640px;
+    margin-left: 49%;
 }
 .banner .ban_circular .banc_son:hover{
     background-color: #e1472f;

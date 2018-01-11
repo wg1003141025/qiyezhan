@@ -1,9 +1,9 @@
 window.onload = function () {
     let bei = document.querySelector(".banner");
-    let tu = document.querySelectorAll(".banner>img");
+    let tu = document.querySelectorAll(".banner>.tu");
     let dian = document.querySelectorAll(".banc_son");
     let now = 0;
-    let time = setInterval(t,1000);
+    let time = setInterval(t,2000);
     function t(){
         if(now == tu.length){
             now = 0
@@ -20,7 +20,7 @@ window.onload = function () {
         clearInterval(time);
     }
     bei.onmouseout = function () {
-        time = setInterval(t,3000);
+        time = setInterval(t,2000);
     }
     dian.forEach(function (ele,index) {
         ele.addEventListener('click', function () {
