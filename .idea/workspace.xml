@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a422f64c-c33b-40e1-a8c0-8ede56cdc4c4" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/fashion.html" afterPath="$PROJECT_DIR$/fashion.html" />
-      <change beforePath="$PROJECT_DIR$/guanyu.html" afterPath="$PROJECT_DIR$/guanyu.html" />
-      <change beforePath="$PROJECT_DIR$/lianxi.html" afterPath="$PROJECT_DIR$/lianxi.html" />
-      <change beforePath="$PROJECT_DIR$/xiangqing.html" afterPath="$PROJECT_DIR$/xiangqing.html" />
-      <change beforePath="$PROJECT_DIR$/yuanchaung.html" afterPath="$PROJECT_DIR$/yuanchaung.html" />
-      <change beforePath="$PROJECT_DIR$/zuixin.html" afterPath="$PROJECT_DIR$/zuixin.html" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="qiyezhan.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="147" column="23" lean-forward="true" selection-start-line="147" selection-start-column="23" selection-end-line="147" selection-end-column="31" />
+            <state relative-caret-position="114">
+              <caret line="6" column="38" lean-forward="false" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
               <folding>
                 <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -43,7 +38,7 @@
       <file leaf-file-name="lianxi.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lianxi.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
+            <state relative-caret-position="1862">
               <caret line="98" column="27" lean-forward="false" selection-start-line="98" selection-start-column="27" selection-end-line="98" selection-end-column="27" />
               <folding />
             </state>
@@ -53,7 +48,7 @@
       <file leaf-file-name="xiangqing.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xiangqing.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
+            <state relative-caret-position="2090">
               <caret line="110" column="31" lean-forward="false" selection-start-line="110" selection-start-column="31" selection-end-line="110" selection-end-column="31" />
               <folding />
             </state>
@@ -63,7 +58,7 @@
       <file leaf-file-name="yuanchaung.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/yuanchaung.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
+            <state relative-caret-position="1976">
               <caret line="104" column="31" lean-forward="false" selection-start-line="104" selection-start-column="31" selection-end-line="104" selection-end-column="31" />
               <folding />
             </state>
@@ -73,7 +68,7 @@
       <file leaf-file-name="zuixin.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/zuixin.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
+            <state relative-caret-position="1501">
               <caret line="79" column="27" lean-forward="false" selection-start-line="79" selection-start-column="27" selection-end-line="79" selection-end-column="27" />
               <folding />
             </state>
@@ -83,17 +78,17 @@
       <file leaf-file-name="fashion.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fashion.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
+            <state relative-caret-position="2679">
               <caret line="141" column="31" lean-forward="false" selection-start-line="141" selection-start-column="31" selection-end-line="141" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="guanyu.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="guanyu.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/guanyu.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
+            <state relative-caret-position="1216">
               <caret line="64" column="31" lean-forward="false" selection-start-line="64" selection-start-column="31" selection-end-line="64" selection-end-column="31" />
               <folding />
             </state>
@@ -121,13 +116,13 @@
         <option value="$PROJECT_DIR$/css/fashion.css" />
         <option value="$PROJECT_DIR$/js/index.js" />
         <option value="$PROJECT_DIR$/css/index.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/lianxi.html" />
         <option value="$PROJECT_DIR$/xiangqing.html" />
         <option value="$PROJECT_DIR$/yuanchaung.html" />
         <option value="$PROJECT_DIR$/zuixin.html" />
         <option value="$PROJECT_DIR$/fashion.html" />
         <option value="$PROJECT_DIR$/guanyu.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -144,7 +139,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -251,15 +246,15 @@
       <workItem from="1515631170063" duration="1256000" />
       <workItem from="1515656666625" duration="4626000" />
       <workItem from="1515687632100" duration="82000" />
-      <workItem from="1515718539939" duration="89000" />
+      <workItem from="1515718539939" duration="360000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6695000" />
+    <option name="totallyTimeSpent" value="6966000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -653,21 +648,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="147" column="23" lean-forward="true" selection-start-line="147" selection-start-column="23" selection-end-line="147" selection-end-column="31" />
-          <folding>
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lianxi.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
+        <state relative-caret-position="1862">
           <caret line="98" column="27" lean-forward="false" selection-start-line="98" selection-start-column="27" selection-end-line="98" selection-end-column="27" />
           <folding />
         </state>
@@ -675,7 +658,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/xiangqing.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
+        <state relative-caret-position="2090">
           <caret line="110" column="31" lean-forward="false" selection-start-line="110" selection-start-column="31" selection-end-line="110" selection-end-column="31" />
           <folding />
         </state>
@@ -683,7 +666,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/yuanchaung.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
+        <state relative-caret-position="1976">
           <caret line="104" column="31" lean-forward="false" selection-start-line="104" selection-start-column="31" selection-end-line="104" selection-end-column="31" />
           <folding />
         </state>
@@ -691,7 +674,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/zuixin.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
+        <state relative-caret-position="1501">
           <caret line="79" column="27" lean-forward="false" selection-start-line="79" selection-start-column="27" selection-end-line="79" selection-end-column="27" />
           <folding />
         </state>
@@ -699,7 +682,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fashion.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
+        <state relative-caret-position="2679">
           <caret line="141" column="31" lean-forward="false" selection-start-line="141" selection-start-column="31" selection-end-line="141" selection-end-column="31" />
           <folding />
         </state>
@@ -707,9 +690,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/guanyu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
+        <state relative-caret-position="1216">
           <caret line="64" column="31" lean-forward="false" selection-start-line="64" selection-start-column="31" selection-end-line="64" selection-end-column="31" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="38" lean-forward="false" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+          <folding>
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
